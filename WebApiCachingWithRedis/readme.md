@@ -1,4 +1,4 @@
-# .NET 6 Web API with Redis and PostgreSQL
+# .NET 6 Web API with Redis as a Cache and PostgreSQL
 
 This project is a .NET 6 Web API application that uses Redis for caching and PostgreSQL as the relational database.
 
