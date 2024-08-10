@@ -123,6 +123,6 @@ This command applies the pending migrations to the database. It updates the data
 
 This setup will help you create a .NET 6 Web API application with PostgreSQL as the database and Redis for caching. Follow the instructions to set up the necessary containers, add the required packages, and manage your database schema using EF Core.
 
-For any questions or issues, refer to the official documentation of Docker, .NET, Entity Framework Core, [Redis](https://redis.io/docs/latest/develop/connect/clients/dotnet/, and PostgreSQL.
+For any questions or issues, refer to the official documentation of Docker, .NET, Entity Framework Core, [Redis](https://redis.io/docs/latest/develop/connect/clients/dotnet), and PostgreSQL.
 
 ![Cache Working Mechanism](image.png)
