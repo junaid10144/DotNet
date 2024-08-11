@@ -163,3 +163,12 @@ var members = await _database.SetMembersAsync("myset");
    |          |          |
 Value 2    Value 1    Value 3
 ```
+
+---
+![Application Architecture](image1.png)
+
+![Database need](image2.png)
+
+![Caching No Hit](image3.png)
+
+![Caching Hit](image4.png)
