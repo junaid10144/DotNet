@@ -1,0 +1,6 @@
+@WebApiWithRedis_PrimaryDB_HostAddress = http://localhost:5095
+
+GET {{WebApiWithRedis_PrimaryDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
